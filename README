@@ -3,7 +3,9 @@ _______________________________
 _______________________________
 
 Contact Person #1: Dana M. Small (dana.small@yale.edu, ORCID: 0000-0001-7363-1100)
+
 Contact Person #2: Emily E. Perszyk (emily.perszyk@yale.edu, ORCID: 0000-0002-8902-4644)
+
 Additional information: Please see our upcoming publication
 
 _______________________________
@@ -44,12 +46,18 @@ _______________________________
 ## MISSING DATA ##
 _______________________________
 
-Missing Data: 
 sub-2459: Did not return for one-year follow-up session (missing follow-up body measures)
 
-Not Analyzed:
+_______________________________
+## NOT ANALYZED ##
+_______________________________
+
 sub-2484: Excluded entirely after inability to obtain proper odor thresholds (detection accuracy was below 50% chance)
+
 sub-2505: Excluded entirely after inability to obtain proper odor thresholds (detection accuracy was below 50% chance)
+
 sub-2509: Excluded entirely after inability to obtain proper odor thresholds (detection accuracy was below 50% chance)
+
 sub-1681: Excluded from from food intake analyses after eating more than 3SD above the mean during the bogus taste test
+
 sub-2507: Excluded from adiposity change analyses after beginning a strict diet and losing more than 3 SD above the mean in weight
