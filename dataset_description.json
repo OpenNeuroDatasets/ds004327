@@ -17,7 +17,7 @@
         "Dana M. Small"
     ],
     "Acknowledgements": "This work was supported by the National Science Foundation Graduate Research Fellowship under Grant No. 2139841 (E.E.P.), the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health under Award No. F31DK130556 (E.E.P.), and the Modern Diet and Physiology Research Center (D.M.S.). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Science Foundation or the National Institutes of Health. We would like to thank Jason Avery for advice on the fMRI decoding methods; Bojana Kuzmanovic for guidance on the fMRI preprocessing pipeline; James Howard for example code to perform the sniffing analyses; Thomas Hummel, Johan Lundström, Joel Mainland, and Paul Wise for their thoughts in troubleshooting the odor detection threshold testing; Alain Dagher, Ralph DiLeone, and Barry Green for their helpful suggestions to the project design; and Karen Martin for MR technical assistance.",
-    "HowToAcknowledge": "",
+    "HowToAcknowledge": "Please see our publication at https://www.nature.com/articles/s42255-023-00874-z.",
     "Funding": [
         "NIH NIDDKF31 DK130556, NSF GRFP 2139841, Modern Diet and Physiology Research Center Gift."
     ],
